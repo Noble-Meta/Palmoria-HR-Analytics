@@ -122,5 +122,5 @@ This project provided hands-on experience with end-to-end data analysis using Po
 ---
 
 ### License
-This project is open-source and free to use for learning or portfolio purposes.
+This project is open-source and free to use for learning or other legal purposes.
 
