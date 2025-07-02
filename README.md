@@ -111,14 +111,16 @@ This project provided hands-on experience with end-to-end data analysis using Po
 
 - Use of **DAX** formulas for creating custom measures, calculated columns, and conditional logic.
 
+---
 
-   ## Prepared By:
+   ### Prepared By:
    **Emmanuel Akpan**  
 [LinkedIn Profile](https://www.linkedin.com/in/emmanuel-akpan-meta)  
 [WhatsApp](https://wa.me/2348130081897)  
 [GitHub Profile](https://github.com/Noble-Meta)
 
+---
 
-## License
+### License
 This project is open-source and free to use for learning or portfolio purposes.
 
