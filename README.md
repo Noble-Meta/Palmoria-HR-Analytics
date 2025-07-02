@@ -53,6 +53,12 @@ Palmoria Group faced media criticism over gender inequality across its three reg
 - Several employees fall below the $90,000 regulatory salary threshold.
 - Bonus allocation effectively highlights performance disparities by gender and region.
 
+## Sample Visuals
+
+| Gender Distribution | Salary Gap | Bonus by Region |
+|---------------------|------------|-----------------|
+| ![Gender](visuals/gender_distribution.png) | ![Gap](visuals/salary_gap_by_department.png) | ![Bonus](visuals/bonus_by_region.png) |
+
 ---
 
 ## Questions Answered in This Project
