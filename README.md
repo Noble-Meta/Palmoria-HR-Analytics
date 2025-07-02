@@ -57,7 +57,7 @@ Palmoria Group faced media criticism over gender inequality across its three reg
 
 | Gender Distribution | Salary Gap | Bonus by Region |
 |---------------------|------------|-----------------|
-| ![Gender](visuals/gender_distribution.png) | ![Gap](visuals/salary_gap_by_department.png) | ![Bonus](visuals/bonus_by_region.png) |
+| ![Gender](https://github.com/Noble-Meta/Palmoria-HR-Analytics/blob/main/Visuals/gender_distribution.png) | ![Gap](visuals/salary_gap_by_department.png) | ![Bonus](visuals/bonus_by_region.png) |
 
 ---
 
