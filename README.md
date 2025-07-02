@@ -40,7 +40,7 @@ Palmoria Group faced media criticism over gender inequality across its three reg
 
 ## Tools Used
 
-- **Power BI Desktop** ([Download Here])(https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+- **Power BI Desktop** [(Download Here)](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - **Microsoft Excel**
 - **DAX (Data Analysis Expressions)**
 - **GitHub for documentation**
