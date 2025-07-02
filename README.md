@@ -55,14 +55,6 @@ Palmoria Group faced media criticism over gender inequality across its three reg
 
 ---
 
-## Sample Visuals
-
-| Gender Distribution | Salary Gap | Bonus by Region | Employees earning < $90,000 | Employees by salary band|
-|---------------------|--------------|-----------------||-----------------||---------------------|
-| ![Gender](images/chart1.png) | ![Gap](visuals/salary_gap_by_department.png) | ![Bonus](visuals/bonus_by_region.png) |  ![Gener](images/chart1.png) |![Gder](images/chart1.png) |
-
----
-
 ## Questions Answered in This Project
 
 This project was guided by key analytical questions provided by Palmoria Group’s CHRO. The following insights were derived and visualized using Power BI:
