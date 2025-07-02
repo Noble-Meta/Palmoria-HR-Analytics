@@ -99,6 +99,7 @@ This project was guided by key analytical questions provided by Palmoria Groupâ€
    - Summarized per **region** and **company-wide**.
    - **Total bonus payout:** $2.2M
   
+---
 
 ### Lessons Learned
 
