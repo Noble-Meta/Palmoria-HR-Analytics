@@ -1,19 +1,19 @@
-# Palmoria-HR-Analytics
+v# Palmoria HR Analytics
 
-# 🏭 Palmoria Group HR Analytics Dashboard
+# Dashboard
 
 This repository contains the HR Analytics report and visuals developed for **Palmoria Group**, a manufacturing company in Nigeria. The purpose of this project is to uncover insights on gender-related issues, salary distribution, and performance-based bonus allocation to support HR decision-making.
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 **Case Background**  
 Palmoria Group faced media criticism over gender inequality across its three regions. This project was initiated by the CHRO to identify areas of concern and offer data-driven recommendations using Power BI.
 
 ---
 
-## 🎯 Key Objectives
+## Key Objectives
 
 - Clean and prepare HR and bonus data
 - Analyze gender distribution by region and department
@@ -25,7 +25,7 @@ Palmoria Group faced media criticism over gender inequality across its three reg
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 | Folder         | Description                              |
 |----------------|------------------------------------------|
@@ -36,16 +36,16 @@ Palmoria Group faced media criticism over gender inequality across its three reg
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - **Power BI Desktop**
 - **Microsoft Excel**
 - **DAX (Data Analysis Expressions)**
-- GitHub for version control and documentation
+- **GitHub for documentation**
 
 ---
 
-## 📌 Key Insights
+## Key Insights
 
 - Certain departments show significant gender pay gaps.
 - Several employees fall below the $90,000 regulatory salary threshold.
@@ -53,7 +53,7 @@ Palmoria Group faced media criticism over gender inequality across its three reg
 
 ---
 
-## 📸 Sample Visuals
+## Sample Visuals
 
 | Gender Distribution | Salary Gap | Bonus by Region |
 |---------------------|------------|-----------------|
