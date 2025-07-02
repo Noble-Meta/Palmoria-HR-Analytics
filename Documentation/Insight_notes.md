@@ -6,9 +6,11 @@ This document captures key findings, interpretations, and important notes genera
 
 ## Gender Distribution
 
-- **Observation:** Some departments have a significant gender imbalance. <br>
+- **Observation:** <br>
+Some departments have a significant gender imbalance. <br>
 For example **Product Management** has noticeably more male employees than female.
-- **Action Point:** Consider revisiting recruitment strategies in departments with low female representation.
+- **Action Point:** <br>
+Consider revisiting recruitment strategies in departments with low female representation.
 
 ---
 
