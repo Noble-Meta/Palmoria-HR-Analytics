@@ -57,7 +57,7 @@ Palmoria Group faced media criticism over gender inequality across its three reg
 
 | Gender Distribution | Salary Gap | Bonus by Region | Employee earning < $90,000 | Employee by salary band |
 |---------------------|------------|-----------------|----------------|---------------|
-| ![Gender](visuals/gender_distribution.png) | ![Gap](visuals/salary_gap_by_department.png) | ![Bonus](visuals/bonus_by_region.png) |![Gip](visuals/salary_gap_by_department.png) |![tap](visuals/salary_gap_by_department.png) |
+| [Gender](visuals/gender_distribution.png) | ![Gap](visuals/salary_gap_by_department.png) | ![Bonus](visuals/bonus_by_region.png) |![Threshold](visuals/salary_gap_by_department.png) |![Band](visuals/salary_gap_by_department.png) |
 
 ---
 
