@@ -62,8 +62,40 @@ Palmoria Group faced media criticism over gender inequality across its three reg
 
 ---
 
-## 🚀 Getting Started
+## Questions Answered in This Project
 
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/your-username/Palmoria-HR-Analytics.git
+This project was guided by key analytical questions provided by Palmoria Group’s CHRO. The following insights were derived and visualized using Power BI:
+
+---
+
+### Case Questions Addressed
+
+1. **What is the gender distribution in the organization?**
+   - Distilled by **region** and **department**.
+   - Visualized using stacked column and clustered bar charts.
+
+2. **What are the performance ratings by gender?**
+   - Ratings (Average, Good, Poor, etc.) were converted into numeric scores.
+   - Compared by gender to uncover any bias or pattern.
+
+3. **Does a gender pay gap exist?**
+   - Yes, gaps were identified in several departments.
+   - The most significant disparities occurred in **Business Development** and **Support**.
+   - Differences also analyzed by region.
+
+4. **Does Palmoria meet the regulatory salary minimum of $90,000?**
+   - **654 employees** were found to earn below $90,000.
+   - Visualized using salary band charts grouped in $10,000 intervals.
+
+5. **Which regions are most affected by the salary gap?**
+   - **Kaduna** recorded the highest number of underpaid employees.
+   - Salary band visual filtered by region.
+
+6. **How is bonus pay allocated?**
+   - Bonus computed based on a combination of **department** and **performance rating**.
+   - Lookup tables and **DAX** logic used to assign correct bonus percentages.
+
+7. **How much is paid in total compensation (salary + bonus)?**
+   - A new column was created for each employee’s total compensation.
+   - Summarized per **region** and **company-wide**.
+   - **Total bonus payout:** $2.2M
