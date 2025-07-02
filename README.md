@@ -1,6 +1,7 @@
 # Palmoria HR Analytics
 Gender equality Analysis for **Palmoria Group**
 
+
 # Dashboard
 
 This repository contains the HR Analytics report and visuals developed for **Palmoria Group**, a manufacturing company in Nigeria. The purpose of this project is to uncover insights on gender-related issues, salary distribution, and performance-based bonus allocation to support HR decision-making.
@@ -33,7 +34,7 @@ Palmoria Group faced media criticism over gender inequality across its three reg
 | `/data`        | Raw and cleaned data files               |
 | `/reports`     | Power BI (.pbix) report file             |
 | `/visuals`     | Exported charts and visuals              |
-| `/documentation`| PDF report with summarized insights     |
+| `/documentation`| Insights Notes     |
 
 ---
 
@@ -99,3 +100,15 @@ This project was guided by key analytical questions provided by Palmoria Groupâ€
    - A new column was created for each employeeâ€™s total compensation.
    - Summarized per **region** and **company-wide**.
    - **Total bonus payout:** $2.2M
+  
+
+   ## Prepared By:
+   **Emmanuel Akpan**  
+[LinkedIn Profile](https://www.linkedin.com/in/emmanuel-akpan-meta)  
+[WhatsApp](https://wa.me/2348130081897)  
+[GitHub Profile](https://github.com/Noble-Meta)
+
+
+## License
+This project is open-source and free to use for learning or portfolio purposes.
+
